@@ -1,0 +1,8 @@
+{
+    "info":"this document is a sample JSON object returned from a promise call within the context of this app",
+    "rtn":"ok|error",
+    "rtnmsg":"a return message that says what was called and why it might not have worked",
+    "rtnstack":["an array of previous return objects as promised calls stack up",
+    "each one of these objects will also look like this sample object"],
+    "data":{"the data object":"returned from the particular call","key":"value"}
+}

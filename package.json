@@ -1,0 +1,16 @@
+{
+  "name": "test0",
+  "version": "1.0.0",
+  "description": "A test package for Privacy Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "doTest",
+    "start": "functions-framework --target=onstart"
+  },
+  "author": "Andrew Smith",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "api": "^6.1.1"
+  }
+}
